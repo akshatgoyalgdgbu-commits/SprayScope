@@ -6,6 +6,8 @@ A browser based VPN authentication threat detection prototype. Analyze authentic
 
 **Live demo:** [Open SprayScope on Vercel](https://sprayscope-hackathon-demo.vercel.app)
 
+**Connect:** [Akshat Goyal on LinkedIn](https://www.linkedin.com/in/akshat-goyal-959081247)
+
 [![Open the full size dashboard screenshot](./dashboard-overview.png)](./dashboard-overview.png)
 
 *Select the dashboard image to open it at full size.*
